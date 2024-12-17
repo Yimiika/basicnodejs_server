@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Red shirt",
+    "Price": "$90",
+    "Size": "Large(l)",
+    "id": 1
+  },
+  {
+    "Name": "Brown shirt",
+    "Price": "$30",
+    "Size": "medium(m)",
+    "id": 2
+  },
+  {
+    "Name": "Yellow pants",
+    "Price": "$200",
+    "Size": "large(l)",
+    "id": 3
+  },
+  {
+    "Name": "Blu pants",
+    "Price": "$200",
+    "Size": "large(l)",
+    "id": 6
+  },
+  {
+    "Name": "Blu pants",
+    "Price": "$200",
+    "Size": "large(l)",
+    "id": 7
+  },
+  {
+    "Name": "Cute pants",
+    "Price": "$3000",
+    "Size": "large(l)",
+    "id": 8
+  },
+  {
+    "Name": "Cute pants",
+    "Price": "$3000",
+    "Size": "large(l)",
+    "id": 9
+  },
+  {
+    "Name": "Cute pants",
+    "Price": "$3000",
+    "Size": "large(l)",
+    "id": 10
+  },
+  {
+    "Name": "Cute pants",
+    "Price": "$3000",
+    "Size": "large(l)",
+    "id": 11
+  }
+]
